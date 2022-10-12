@@ -3,7 +3,9 @@
 #include "funcs.h"
 
 // add your tests here
+/*
 TEST_CASE(""){
     CHECK();
     CHECK();
 }
+*/
